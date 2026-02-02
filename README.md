@@ -1,29 +1,10 @@
-Andy Alvarez
-
 Biomechanist | Data Scientist 
 -----------------------------
 
-- Miami, FL
-- [andymalv@pm.me](mailto:andymalv@pm.me)
-![Top Languages](.profile/top-langs.svg)
+![Top Languages](./profile/top-langs.svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile/top-langs-dark.svg" />
+  <img alt="Top Languages" src="profile/top-langs-light.svg" />
+</picture>
 
-
-
-
-
-
-<!--
-**andymalv/andymalv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
