@@ -1,6 +1,7 @@
 
 Hello there
 -----------------------------
+More of my projects are available at [Codeberg](https://codeberg.org/andymalv)
 
 #### Lanugages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -16,7 +17,7 @@ Hello there
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-9558B2?style=flat&logo=jax&logoColor=white)\
+![JAX](https://img.shields.io/badge/JAX-9558B2?style=flat&logo=jax&logoColor=white)
 #### Systems/Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Apple](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
